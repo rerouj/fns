@@ -4,7 +4,7 @@ Visualisation des données du Fond National Suisse (FNS). Le FNS est une fondati
 
 Cette visualisation propose un aperçu global du financement apporté par le FNS en Suisse depuis 1970. Il est notamment question d'apprécier :
 
-- Le nombre de projets conduits par les différents centre de recherche qui ont été soutenu par le FNS.
+- Le nombre de projets soutenu par le FN conduits dans les différents centre de recherche suisse.
 - Le montant (total, moyen, median) accordé à chaque institution par le FNS.
 
 Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
