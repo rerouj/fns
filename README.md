@@ -34,7 +34,7 @@ Les données du FNS ont été traité (data mining) avec un programme Python et 
 
 ![alt text](https://github.com/rerouj/fns/blob/master/screenshots/screenshot2.png)
 
-# source :
+# Sources :
 
 Les données du FNS (p3GrantExport) proviennent du site opendata.swiss.
 
