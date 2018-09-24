@@ -1,13 +1,13 @@
 # FNS:
 
-Visualisation des données du Fond National Suisse (FNS). Cette visualisation propose un aperçu global du financement de la recherche en Suisse depuis 1970. Au vu du nombre important d'insitution, une classification à été adoptée. LA classification est la suivante : 
+Visualisation des données du Fond National Suisse (FNS). Le FNS est une institution suisse visant à soutenir la recherche et le développement en Suisse et dans le monde.
+
+Cette visualisation propose un aperçu global du financement de la recherche en Suisse depuis 1970. Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
 
 - Université
-- Ecole polytechnique fédérale
+- Ecole polytechnique fédérale (EPF)
 - Haute école (HES, HEP)
 - Autres instituts
-
-Les données du FNS ont été traité (data mining) avec un programme Python (Panda)
 
 # Usage:
 
@@ -21,12 +21,14 @@ Pour accéder à la visualisation vous devez :
 # A propos du code:
 
 Ce travail à été réalisé en D3.js (V4) dans le cadre du cours universitaire "visualisation de données" offert par Isaac Pante.
-Aucune installation n'est recquise pour accéder à la page.
+Aucune installation n'est requise pour accéder à la page.
+
+Les données du FNS ont été traité (data mining) avec un programme Python et la librairie Panda
 
 # source :
 
-Les données du FNS (p3 export) proviennent du site opendata.swiss
-Les données géographiques (swissBoundaries3d) proviennent du site opendata.swiss et ont été traitée avec QGIS
+Les données du FNS (p3GrantExport) proviennent du site opendata.swiss
+Les données géographiques (swissBoundaries3d) proviennent du site opendata.swiss. Celles-ci ont été traitée avec QGIS
 
 # Liscence:
 
