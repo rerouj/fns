@@ -1,8 +1,8 @@
 # FNS:
 
-Visualisation des données du Fond National Suisse (FNS). Le FNS est une institution suisse visant à soutenir la recherche et le développement en Suisse et dans le monde.
+Visualisation des données du Fond National Suisse (FNS). Le FNS est une fondation privée soutenue par la Confédération suisse qui à pour but de soutenir la recherche et le développement en Suisse et dans le monde.
 
-Cette visualisation propose un aperçu global du financement de la recherche en Suisse depuis 1970. Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
+Cette visualisation propose un aperçu global du financement apporté par le FNS en Suisse depuis 1970. Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
 
 - Université
 - Ecole polytechnique fédérale (EPF)
