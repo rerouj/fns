@@ -37,7 +37,6 @@ Les données du FNS ont été traité (data mining) avec un programme Python et 
 # source :
 
 Les données du FNS (p3GrantExport) proviennent du site opendata.swiss.
-
 Les données géographiques (swissBoundaries3d) proviennent du site opendata.swiss. Celles-ci ont été traitée avec QGIS.
 
 # Liscence:
