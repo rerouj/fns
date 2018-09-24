@@ -9,7 +9,7 @@ Cette visualisation propose un aperçu global du financement de la recherche en 
 - Haute école (HES, HEP)
 - Autres instituts
 
-![alt text](https://github.com/rerouj/fns/blob/master/screenshot/screenshot1.png)
+![alt text](https://github.com/rerouj/fns/blob/master/screenshots/screenshot1.png)
 
 # Usage:
 
@@ -27,7 +27,7 @@ Aucune installation n'est requise pour accéder à la page.
 
 Les données du FNS ont été traité (data mining) avec un programme Python et la librairie Panda
 
-![alt text](https://github.com/rerouj/fns/blob/master/screenshot/screenshot2.png)
+![alt text](https://github.com/rerouj/fns/blob/master/screenshots/screenshot2.png)
 
 # source :
 
