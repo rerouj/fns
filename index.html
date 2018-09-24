@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <style>
+        html,body{
+            height: 100%;
+            width: 100%;
+        }
+        .title{
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+        #box{
+            height: 90%;
+            width: 95%;
+        }
+        h1{
+            margin:0;
+            padding:0;
+        }
+        body {
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+        #mapid{
+            margin: auto;
+            height: 90%;
+            width: 90%;
+        }
+        #scatterplot{
+            margin: auto;
+            height: 90%;
+            width: 90%;
+        }
+        #content .map path {
+            fill: #ddd;
+            stroke: #aaa;
+        }
+        .labels{
+            font-family:'Helvetica','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            opacity: 1;
+        }
+        .title{
+            text-align: left;
+        }
+        #sel{
+            width: 300px;
+        }
+        #legend{
+            display: flex;
+            padding-left: 100px;
+            height: 30px;
+            width: 100%;
+        }
+        #legend > * {
+            padding: 10px;
+            flex: 1 100%;
+        }
+
+
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" 
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" 
+    crossorigin=""/>
+</head>
+<body>
+    <div id="legend">
+        <div class="box_title">
+            <p class="title">FOND NATIONAL SUISSE (FNS) :<br/>
+            Visualiser le financement de la recherche en Suisse depuis 1970</p>
+        </div>
+        <div class="selector">
+            <select id="sel">
+                <option value="uni">Université canto.</option>
+                <option value="epf">EPF</option>
+                <option value="hes">HES</option>
+                <option value="hep">HEP</option>
+                <option value="other">Autres instituts</option>
+            </select>
+        </div>
+    </div>
+    <script src="fnsviz.js"></script>
+</body>
+</html>
