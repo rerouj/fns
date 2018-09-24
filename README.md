@@ -1,4 +1,4 @@
-# fns:
+# FNS:
 
 Visualisation des données du Fond National Scientifique (FNS). Cette visualisation propose un aperçu global du financement de la recherche en Suisse depuis 1970. Au vu du nombre important d'insitution, une classification à été adoptée. LA classification est la suivante : 
 
