@@ -4,7 +4,7 @@ Visualisation des données du Fond National Suisse (FNS). Le FNS est une fondati
 
 Cette visualisation propose un aperçu global du financement apporté par le FNS en Suisse depuis 1970. Il est notamment question d'apprécier :
 
-- Le nombre de projets soutenu par le FNS conduits dans les différents centre de recherche suisse.
+- Le nombre de projets soutenus par le FNS, conduits dans les différents centres de recherche suisses.
 - Le montant (total, moyen, median) accordé à chaque institution par le FNS.
 
 Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
@@ -20,10 +20,10 @@ Au vu du nombre important d'insitutions, une classification à été adoptée. L
 
 Pour accéder à la visualisation vous devez : 
 
-1) télécharger le dossier github 
-2) placer le dossier sur un server 
-3) lancer le serveur 
-4) lancer le site
+1) Télécharger le dossier github 
+2) Placer le dossier sur un serveur 
+3) Lancer le serveur 
+4) Lancer le site
 
 # A propos du code:
 
