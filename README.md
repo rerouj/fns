@@ -7,7 +7,7 @@ Cette visualisation propose un aperçu global du financement apporté par le FNS
 - Le nombre de projets soutenus par le FNS, conduits dans les différents centres de recherche suisses.
 - Le montant (total, moyen, median) accordé à chaque institution par le FNS.
 
-Au vu du nombre important d'insitutions, une classification à été adoptée. La classification est la suivante : 
+Au vu du nombre important d'insitutions, une classification a été adoptée. La classification est la suivante : 
 
 - Université
 - Ecole polytechnique fédérale (EPF)
